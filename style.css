@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #fefae0;
+    margin: 0px;
+}
+
+header {
+    background-color: #ccd5ae;
+    text-align: center;
+    margin: 0px;
+    padding: 15px;
+}
+
+nav {
+    background-color: #e9edc9;
+    text-align: center;
+}
+
+nav a {
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #ccd5ae;
+
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #ccd5ae;
+    text-align: center;
+    padding: 2px;
+}
+
+.card {
+    background-color: #e9edc9;
+    padding: 20px;
+    margin: 20px 10px;
+    border-radius: 15px;
+}
